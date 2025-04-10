@@ -5,3 +5,11 @@ As seen on X (thank you for the positive comments!), this is a component inspire
 Not a full replica, as this component was built for my own personal needs, however I think something great came out of it.
 
 That being said, since my app is developed for iOS, I have not tested in android 😭, however, this is using well managed packages such as expo-blur, skia, and reanimated. Fingers crossed all is well.
+
+Create an expo dev build
+npm install
+
+npm expo prebuild 
+
+npm expo run ios
+
